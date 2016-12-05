@@ -10,6 +10,10 @@ Also included in the data were calculated means and standard deviations for each
 
 This analysis calculated the means for each subject/activity combination, for each mean and standard deviation.
 Thus each row relates to a unique subject/activity combination, and displays the mean for each variable.
+- The first column indicates which subject from which the data was collected
+- The second column indicates which activity was performed
+- The following columns are the means and standard deviations measured. The value in each column represents the calculated mean for that measurement and combination.
+
 Means [mean()] and Standard Deviations [std()] were calculated for the following vectors:
 tBodyAcc-XYZ
 tGravityAcc-XYZ
